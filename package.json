@@ -1,0 +1,27 @@
+{
+  "name": "zeddemore-progress-bar",
+  "version": "0.0.1",
+  "description": "Node.js progress bar for command line",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbean/zeddemore-progress-bar.git"
+  },
+  "keywords": [],
+  "main": "./zeddemore-progress-bar.js",
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@gmail.com",
+    "url": "https://darkartmailbox.com"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aaronbean/zeddemore-progress-bar/issues"
+  },
+  "homepage": "https://github.com/aaronbean/zeddemore-progress-bar#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "lodash": "^4.17.21",
+    "string-width": "^4.2.3"
+  }
+}
