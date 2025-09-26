@@ -1,6 +1,6 @@
 {
   "name": "zeddemore-progress-bar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js progress bar for command line",
   "repository": {
     "type": "git",
